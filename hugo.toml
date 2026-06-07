@@ -1,0 +1,10 @@
+baseURL = 'https://henriqueleaop.github.io/blog/'
+languageCode = 'pt-br'
+title = 'Meu Blog Offline'
+theme = 'PaperMod'
+
+[params]
+    env = "production"
+    disableHLJS = false
+    showShareButtons = false
+    showPostNavLinks = true
