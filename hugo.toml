@@ -1,6 +1,6 @@
 baseURL = 'https://henriqueleaop.github.io/blog/'
 locale = 'pt-br'
-title = 'Meu Blog Offline'
+title = 'Mundus idearum'
 theme = 'PaperMod'
 
 [params]
