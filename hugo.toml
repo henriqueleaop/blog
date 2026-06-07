@@ -1,5 +1,5 @@
 baseURL = 'https://henriqueleaop.github.io/blog/'
-languageCode = 'pt-br'
+locale = 'pt-br'
 title = 'Meu Blog Offline'
 theme = 'PaperMod'
 
