@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meu Blog Offline</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on Meu Blog Offline</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 07 Jun 2026 18:34:27 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alien Romulus Resenha</title>
+      <link>http://localhost:1313/blog/posts/alien-romulus-resenha/</link>
+      <pubDate>Sun, 07 Jun 2026 18:34:27 -0300</pubDate>
+      <guid>http://localhost:1313/blog/posts/alien-romulus-resenha/</guid>
+      <description>&lt;p&gt;Que filme surpreendentemente delicioso de se assistir. A cinematografia e ambientação fazem jus ao ápice da franquia. Claro que sofre de certas conveniências e maneirismos inerentes ao gênero slasher espacial de Hollywood. Os personagens, pelo menos na minha experiência, não foram tão cativantes e não me fizeram ficar verdadeiramente aflito e lamentar por suas mortes, como me ocorreu no original de 1979.&lt;/p&gt;
+&lt;p&gt;Contudo, o enredo é decente e há sim uma expansão do universo de Alien, principalmente para quem não tenha consumido outras mídias fora os filmes principais.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
