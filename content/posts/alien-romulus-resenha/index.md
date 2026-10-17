@@ -2,6 +2,12 @@
 date = '2026-06-07T18:34:27-03:00'
 draft = false
 title = 'Alien Romulus Resenha'
+
+[cover]
+image = 'alien-romulus.jpg'
+alt = 'Um xenomorfo se aproxima de Rain Carradine, interpretada por Cailee Spaeny, em Alien: Romulus.'
+caption = 'Imagem de divulgação de *Alien: Romulus*. © 2024 20th Century Studios. [Fonte: página oficial do filme](https://www.20thcenturystudios.com/movies/alien-romulus).'
+relative = true
 +++
 
 Que filme surpreendentemente delicioso de se assistir. A cinematografia e ambientação fazem jus ao ápice da franquia. Claro que sofre de certas conveniências e maneirismos inerentes ao gênero slasher espacial de Hollywood. Os personagens, pelo menos na minha experiência, não foram tão cativantes e não me fizeram ficar verdadeiramente aflito e lamentar por suas mortes, como me ocorreu no original de 1979. 
